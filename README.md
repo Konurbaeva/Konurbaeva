@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 <h1 align="center">Hi 👋, I'm Madina Konurbaeva</h1>
 <h3 align="center">A passionate newbie frontend developer from Berlin</h3>
